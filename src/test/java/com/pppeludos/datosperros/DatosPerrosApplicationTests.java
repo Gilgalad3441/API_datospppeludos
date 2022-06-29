@@ -1,4 +1,4 @@
-package com.amoelcodigo.crud;
+package com.pppeludos.datosperros;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
